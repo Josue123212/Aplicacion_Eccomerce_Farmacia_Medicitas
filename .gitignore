@@ -316,3 +316,6 @@ static_collected/
 *.tar.gz
 *.rar
 *.7z
+# Ignore all Markdown files except readmo.md
+*.md
+!README.md
